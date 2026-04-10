@@ -1,10 +1,10 @@
 # Cadastro de Usuário
 
-**COMO** Bibliotecário,
-**QUERO** cadastrar um novo usuário
+**COMO** Bibliotecário,  <br>
+**QUERO** cadastrar um novo usuário  <br>
 **PARA** que ele possa realizar empréstimos de livros.
 
-**Critérios de Aceitação**
+**Critérios de Aceitação:**
 
 - Deve ser possível informar o nome de usuário
 - Deve ser possível informar un número de matrícula único
