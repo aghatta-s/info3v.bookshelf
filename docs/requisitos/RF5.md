@@ -1,7 +1,7 @@
 # Controle de Atrasos
 
-**COMO** Bibliotecário,
-**QUERO** identificar empréstimos em atraso
+**COMO** Bibliotecário,  <br>
+**QUERO** identificar empréstimos em atraso  <br>
 **PARA** aplicar regras ou notificações aos usuários.
 
 **Critérios de Aceitação:**
