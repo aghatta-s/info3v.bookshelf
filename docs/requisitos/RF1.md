@@ -1,7 +1,7 @@
 # Cadastro de Livros
 
-**COMO** Bibliotecário,
-**QUERO** cadastrar um novo livro no sistema
+**COMO** Bibliotecário, <br>
+**QUERO** cadastrar um novo livro no sistema <br>
 **PARA** que ele possa ser disponibilizado para empréstimo aos usuários.
 
 **Critérios de Aceitação:**
