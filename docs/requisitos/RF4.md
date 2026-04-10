@@ -1,7 +1,7 @@
 # Registro de Devolução
 
-**COMO** Bibliotecário,
-**QUERO** registrar a devolução de um livro
+**COMO** Bibliotecário,  <br>
+**QUERO** registrar a devolução de um livro  <br>
 **PARA** atualizar a disponibilidade do exemplar no sistema.
 
 **Critérios de Aceitação:**
