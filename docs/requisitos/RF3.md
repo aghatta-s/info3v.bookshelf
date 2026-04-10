@@ -1,7 +1,7 @@
 # Registro de Empréstimo
 
-**COMO** Bibliotecário,
-**QUERO** registrar o empréstimo de um livro
+**COMO** Bibliotecário,  <br>
+**QUERO** registrar o empréstimo de um livro  <br>
 **PARA** controlar quais livros estão emprestados para quem.
 
 **Critérios de Aceitação:**
