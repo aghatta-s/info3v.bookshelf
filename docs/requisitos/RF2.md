@@ -2,7 +2,7 @@
 
 **COMO** Bibliotecário,  <br>
 **QUERO** cadastrar um novo usuário  <br>
-**PARA** que ele possa realizar empréstimos de livros.
+**PARA** que ele possa realizar empréstimos de livros. .
 
 **Critérios de Aceitação:**
 
