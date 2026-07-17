@@ -6,6 +6,7 @@ public class Livro {
     private String autor;
     private int quantidadeExemplares;
     private int exemplaresEmprestados;
+    private Long id;
 
     public int getExemplaresDisponiveis() {
 
@@ -49,6 +50,17 @@ public class Livro {
 
     public void setExemplaresEmprestados(int exemplaresEmprestados) {
         this.exemplaresEmprestados = exemplaresEmprestados;
+    }
+  
+    public Long getId() {
+
+    return id;
+    }
+
+    public void setId(Long id) {
+
+    this.id = id;
+
     }
 }
 
