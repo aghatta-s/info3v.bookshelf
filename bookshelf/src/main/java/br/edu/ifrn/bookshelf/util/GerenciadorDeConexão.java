@@ -10,7 +10,7 @@ public class GerenciadorDeConexao {
             "jdbc:mysql://localhost:3306/bookshelf_db?useTimezone=true&serverTimezone=UTC";
 
     private static final String USER = "root";
-    private static final String PASSWORD = "@1367Aghatta";
+    private static final String PASSWORD = "";
 
     public static Connection getConnection()
             throws SQLException {
